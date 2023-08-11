@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\bin\Debug\net7.0\BMICalc.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\bin\Debug\net7.0\BMICalc.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\bin\Debug\net7.0\BMICalc.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\bin\Debug\net7.0\BMICalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\bin\Debug\net7.0\BMICalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\refint\BMICalc.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\BMICalc.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\BMICalc\obj\Debug\net7.0\ref\BMICalc.dll
